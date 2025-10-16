@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ArrayOfProfile>
+  <Profile>
+    <ProfileName>Watch Dogs 2</ProfileName>
+    <Executeables>
+      <string>watchdogs2_rt64.exe</string>
+      <string>watchdogs2.exe</string>
+    </Executeables>
+    <Settings>
+     <ProfileSetting>
+       <SettingNameInfo />
+       <SettingID>10810129</SettingID>
+       <SettingValue>2729785185</SettingValue>
+       <ValueType>Dword</ValueType>
+     </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo />
+        <SettingID>16545312</SettingID>
+        <SettingValue>1</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+    </Settings>
+  </Profile>
+</ArrayOfProfile>
